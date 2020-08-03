@@ -1,0 +1,20 @@
+{
+    "data_path" : "./test/thingWorx/",
+    "work_path" : "./test/thingWorx/",
+    "reading_test_lines": 50000,
+    "test_threshold": 0.90,
+    "retrain_flag" : 0,
+    "g_input_vec_size" : 30,
+    "word_min_count" : 50000,
+    "word_workers" : 16,
+    "lstm_units" : 200,
+    "model_epochs" : 40,
+    "model_name" : "test_model.h5",
+    "model_loss" : "categorical_crossentropy",
+    "drop_ratio" : 0.5,
+    "learning_rate" : 0.001,
+    "train_batch_size" : 64,
+    "train_verbose" : 1,
+    "test_batch_size" : 1000,
+    "test_verbose" : 1
+}
