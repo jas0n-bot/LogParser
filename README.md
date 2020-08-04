@@ -9,7 +9,7 @@ A machine learning based log parser
 | Apache | 1643182 | Apache server access log | Open source Apache server access log set, \[[Download](https://github.com/jas0n-bot/LogParser/raw/master/datasets/apache.tar.gz)\] |
 | UofS | 2408625 | University of Saskatchewan's WWW server access log | M. F. Arlitt and C. L. Williamson, “Web server workload characterization: The search for invariants,” ACM SIGMETRICS Perform. Evaluation Rev., vol. 24, no. 1, pp. 126–137, 1996. |
 | Jul95 | 1891714 | NASA Kennedy Space Center WWW server access log | M. F. Arlitt and C. L. Williamson, “Web server workload characterization: The search for invariants,” ACM SIGMETRICS Perform. Evaluation Rev., vol. 24, no. 1, pp. 126–137, 1996. |
-| Nginx | 1067357 | Nginx server access log | Open source Nginx server access log set |
+| Nginx | 1067357 | Nginx server access log | Open source Nginx server access log set, \[[Download](https://github.com/jas0n-bot/LogParser/raw/master/datasets/nginx.tar.gz)\] |
 | Openstack | 189386 | Openstack runtime log | M. Du, F. Li, G. Zheng, and V. Srikumar, “Deeplog: Anomaly detection and diagnosis from system logs through deep learning,” in Proc. of ACM SIGSAC, 2017, pp. 1285–1298. |
 | Security Log | 22694356 | Connection log from Security Data Analysis Labs | M. Sconzo and D. Dorsey, “Connection log,” 2014, data retrieved from Security Data Analysis Labs, [https://github.com/sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) |
 | Thunderbird | 211212192 | HPC Thunderbird runtime log | A. Oliner and J. Stearley, “What supercomputers say: A study of five system logs,” in Proc. of IEEE/IFIP DSN, 2007, pp. 575–584. |
