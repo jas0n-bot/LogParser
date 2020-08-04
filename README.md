@@ -6,7 +6,7 @@ A machine learning based log parser
 | HDFS | 11197705 | Hadoop runtime log | W. Xu, L. Huang, A. Fox, D. Patterson, and M. I. Jordan, “Detecting large-scale system problems by mining console logs,” in Proc. of ACM SOSP, 2009, p. 117–132. |
 | BGL | 4747963 | HPC Blue Gene/L runtime log | A. Oliner and J. Stearley, “What supercomputers say: A study of five system logs,” in Proc. of IEEE/IFIP DSN, 2007, pp. 575–584. |
 | Spark | 98671134 | Spark runtime log | Our 3-node cluster server that hosts our lab’s calculation tasks |
-| Apache | 1643182 | Apache server access log | Open source Apache server access log set |
+| Apache | 1643182 | Apache server access log | Open source Apache server access log set, \[[Download](https://github.com/jas0n-bot/LogParser/raw/master/datasets/apache.tar.gz)\] |
 | UofS | 2408625 | University of Saskatchewan's WWW server access log | M. F. Arlitt and C. L. Williamson, “Web server workload characterization: The search for invariants,” ACM SIGMETRICS Perform. Evaluation Rev., vol. 24, no. 1, pp. 126–137, 1996. |
 | Jul95 | 1891714 | NASA Kennedy Space Center WWW server access log | M. F. Arlitt and C. L. Williamson, “Web server workload characterization: The search for invariants,” ACM SIGMETRICS Perform. Evaluation Rev., vol. 24, no. 1, pp. 126–137, 1996. |
 | Nginx | 1067357 | Nginx server access log | Open source Nginx server access log set |
